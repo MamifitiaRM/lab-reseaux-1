@@ -318,6 +318,7 @@ La campagne de tests permettra de vérifier :
 ---
 
 # Phase 6 — Services réseau et NAT
+**23/08/2026 — 05:00**
 
 Cette phase était consacrée aux différents services nécessaires au
 fonctionnement de l'infrastructure.
@@ -456,6 +457,7 @@ apparaissaient correctement et le fonctionnement du PAT était confirmé.
 ---
 
 # Phase 7 — ACL et sécurité de niveau 2
+**23/08/2026 — 15:30**
 
 Cette phase était consacrée au contrôle du trafic et à plusieurs mécanismes
 de sécurité des switches d'accès.
@@ -515,7 +517,7 @@ de validation des adresses MAC et IP ont été activés.
 Les vérifications effectuées sur ASW-A1 ne montraient pas de blocage de trafic
 par DAI.
 
-### Captures prévues
+### Captures 
 
 - `captures/phase-07/acl-verification.png`
 - `captures/phase-07/port-security.png`
@@ -526,6 +528,7 @@ par DAI.
 ---
 
 # Phase 8 — IPv6
+**23/08/2026 — 16:33**
 
 La phase suivante était consacrée à l'introduction d'IPv6 dans
 l'infrastructure.
@@ -549,7 +552,7 @@ Enfin, deux routes par défaut IPv6 ont été configurées sur R1 :
 Cette configuration permet de conserver un chemin de secours vers
 l'extérieur.
 
-### Captures prévues
+### Captures 
 
 - `captures/phase-08/ipv6-interface.png`
 - `captures/phase-08/ipv6-routing-table.png`
@@ -558,6 +561,7 @@ l'extérieur.
 ---
 
 # Phase 9 — Wireless
+**23/08/2026 — 16:55**
 
 La dernière phase du lab concernait la partie sans fil avec le WLC1 et les
 points d'accès légers.
