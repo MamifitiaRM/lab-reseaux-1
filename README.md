@@ -1,4 +1,4 @@
-# Cisco CCNA Mega Lab — Infrastructure réseau d'entreprise
+# Cisco CCNA Mega Lab - Infrastructure réseau d'entreprise
 
 Projet personnel réalisé avec **Cisco Packet Tracer** dans le cadre de ma mise en pratique des notions étudiées durant le parcours **CCNA de Jeremy's IT Lab**.
 
